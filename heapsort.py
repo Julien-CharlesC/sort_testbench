@@ -1,4 +1,3 @@
-from collections import deque
 def getLeft(i):
     return (i*2)+1
 def getRight(i):
