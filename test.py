@@ -3,7 +3,7 @@ from heapsort import heapsort
 from random import randrange
 from time import time
 
-#paramètre
+#paramètre,baguette
 sorts = (heapsort,quicksort)
 nbr_test = 3
 porter = 100000000000000
